@@ -1,2 +1,2 @@
 # privacy
-Privacy Polisy
+Privacy Policy
